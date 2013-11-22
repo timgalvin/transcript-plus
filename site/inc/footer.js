@@ -9,4 +9,4 @@ document.write('           </div>');
 document.write('          </div>');
 document.write('<script src="./assets/js/jquery.min.js"></script>');
 document.write('<script src="./assets/js/bootstrap.min.js"></script>');
-    
+document.write('<script src="./assets/js/bootswatch.js"></script>');
